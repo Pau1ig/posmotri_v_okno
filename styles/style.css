@@ -288,6 +288,7 @@ ol {
 }
 
 .search-form__submit-button:hover,
+.more-button:hover,
 .search-form__label:hover .search-form__label-text,
 .content__card-link:hover {
   text-decoration: underline;
@@ -296,6 +297,7 @@ ol {
 
 .content__card-link_current,
 .search-form__submit-button:active,
+.more-button:active,
 .content__video-card:active {
   background-color: #545050;
 }
